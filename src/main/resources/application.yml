@@ -1,0 +1,15 @@
+# 普通数据配置
+name: sunhang
+
+
+# Map 配置
+
+
+
+server:
+  port: 8081
+person:
+  age: 18
+  name: sun
+
+MV_API_URL:
